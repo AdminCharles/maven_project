@@ -1,2 +1,4 @@
-# maven_project
-This is the first maven project with jenkins
+# maven-project
+
+Simple Maven Project
+<br
